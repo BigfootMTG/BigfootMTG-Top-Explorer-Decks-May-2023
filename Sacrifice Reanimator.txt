@@ -1,0 +1,33 @@
+Companion
+1 Jegantha, the Wellspring (IKO) 222
+
+Deck
+4 Mayhem Devil (WAR) 204
+4 Fable of the Mirror-Breaker (NEO) 141
+4 Voldaren Epicure (VOW) 182
+2 Atraxa, Grand Unifier (ONE) 196
+4 Cauldron Familiar (ELD) 81
+4 Bloodtithe Harvester (VOW) 232
+4 Vat of Rebirth (ONE) 113
+1 Oni-Cult Anvil (NEO) 230
+4 Witch's Oven (ELD) 237
+4 Deadly Dispute (AFR) 94
+4 Claim the Firstborn (ELD) 118
+1 Hive of the Eye Tyrant (AFR) 258
+2 Takenuma, Abandoned Mire (NEO) 278
+3 Blackcleave Cliffs (ONE) 248
+1 Den of the Bugbear (AFR) 254
+4 Blood Crypt (RNA) 245
+3 Swamp (MIR) 340
+3 Mountain (MIR) 346
+4 Blightstep Pathway (KHM) 252
+
+Sideboard
+2 Abrade (AKR) 136
+1 Damping Sphere (DAR) 213
+2 Feed the Swarm (ZNR) 102
+1 Jegantha, the Wellspring (IKO) 222
+1 Fatal Push (KLR) 84
+1 Damping Sphere (DAR) 213
+3 Fatal Push (KLR) 84
+4 Thoughtseize (AKR) 127

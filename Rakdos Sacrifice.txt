@@ -1,0 +1,37 @@
+Companion
+1 Jegantha, the Wellspring (IKO) 222
+
+Deck
+4 Mayhem Devil (WAR) 204
+4 Unlucky Witness (SNC) 128
+4 Fable of the Mirror-Breaker (NEO) 141
+4 Cauldron Familiar (ELD) 81
+4 Bloodtithe Harvester (VOW) 232
+4 Witch's Oven (ELD) 237
+4 Fatal Push (KLR) 84
+4 Deadly Dispute (AFR) 94
+4 Claim the Firstborn (ELD) 118
+1 Village Rites (KHM) 117
+2 Hive of the Eye Tyrant (AFR) 258
+1 Takenuma, Abandoned Mire (NEO) 278
+4 Blackcleave Cliffs (ONE) 248
+2 Den of the Bugbear (AFR) 254
+4 Blood Crypt (RNA) 245
+1 Sulfurous Springs (DMU) 256
+1 Swamp (MIR) 340
+1 Mountain (MIR) 346
+1 Sokenzan, Crucible of Defiance (NEO) 276
+4 Blightstep Pathway (KHM) 252
+2 Eaten Alive (MID) 99
+
+Sideboard
+1 Go for the Throat (BRO) 102
+2 Heartless Act (IKO) 91
+1 Jegantha, the Wellspring (IKO) 222
+1 Ob Nixilis, the Adversary (SNC) 206
+2 Thoughtseize (AKR) 127
+1 Ob Nixilis, the Adversary (SNC) 206
+1 Abrade (VOW) 139
+2 Thoughtseize (AKR) 127
+2 Fry (M20) 140
+2 Lithomantic Barrage (MOM) 152

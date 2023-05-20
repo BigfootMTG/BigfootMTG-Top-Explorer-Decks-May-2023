@@ -1,0 +1,47 @@
+Companion
+1 Keruga, the Macrosage (IKO) 225
+
+Deck
+3 Omnath, Locus of Creation (ZNR) 232
+3 Cavalier of Flame (M20) 125
+4 Fable of the Mirror-Breaker (NEO) 141
+3 Kenrith, the Returned King (ELD) 303
+2 Skyclave Apparition (ZNR) 39
+4 Bonecrusher Giant (ELD) 115
+2 Supreme Verdict (RTR) 201
+3 Temporary Lockdown (DMU) 36
+4 Fires of Invention (ELD) 125
+4 Leyline Binding (DMU) 24
+1 Hallowed Fountain (RNA) 251
+2 Indatha Triome (IKO) 248
+1 Breeding Pool (RNA) 246
+1 Island (MIR) 336
+1 Boseiju, Who Endures (NEO) 266
+1 Steam Vents (GRN) 257
+4 Fabled Passage (ELD) 244
+1 Temple Garden (GRN) 258
+1 Spara's Headquarters (SNC) 257
+1 Savai Triome (IKO) 253
+1 Eiganjo, Seat of the Empire (NEO) 268
+1 Otawara, Soaring City (NEO) 271
+2 Sacred Foundry (GRN) 254
+1 Jetmir's Garden (SNC) 250
+1 Plains (MIR) 331
+1 Swamp (MIR) 340
+1 Mountain (MIR) 346
+2 Ketria Triome (IKO) 250
+1 Sokenzan, Crucible of Defiance (NEO) 276
+2 Raugrin Triome (IKO) 251
+1 Forest (MIR) 347
+
+Sideboard
+1 Dream Trawler (THB) 214
+1 Elesh Norn, Mother of Machines (ONE) 10
+3 Mystical Dispute (ELD) 58
+1 Elite Spellbinder (STX) 17
+1 Keruga, the Macrosage (IKO) 225
+1 Elite Spellbinder (STX) 17
+1 Keruga, the Macrosage (IKO) 225
+2 Reidane, God of the Worthy (KHM) 21
+2 Go Blank (STX) 72
+2 Anointed Peacekeeper (DMU) 2

@@ -1,0 +1,38 @@
+Deck
+4 Greasefang, Okiba Boss (NEO) 220
+4 Raffine's Informant (SNC) 26
+2 Scrapwork Mutt (BRO) 164
+2 Skysovereign, Consul Flagship (KLR) 272
+4 Parhelion II (WAR) 24
+4 Esika's Chariot (KHM) 169
+4 Grisly Salvage (RTR) 165
+4 Thoughtseize (AKR) 127
+3 Traverse the Ulvenwald (SIR) 220
+1 Duress (M20) 97
+2 Witherbloom Command (STX) 248
+2 Can't Stay Away (MID) 213
+3 Vessel of Nascency (SIR) 224
+1 Llanowar Wastes (BRO) 264
+1 Godless Shrine (RNA) 248
+1 Swamp (MIR) 340
+1 Overgrown Tomb (GRN) 253
+2 Mana Confluence (JOU) 163
+2 Blooming Marsh (KLR) 280
+3 Concealed Courtyard (KLR) 282
+2 Temple Garden (GRN) 258
+3 Darkbore Pathway (KHM) 254
+1 Boseiju, Who Endures (NEO) 266
+1 Takenuma, Abandoned Mire (NEO) 278
+1 Caves of Koilos (DMU) 244
+2 Razorverge Thicket (ONE) 257
+
+Sideboard
+3 Liliana of the Veil (DMU) 97
+2 Fatal Push (KLR) 84
+1 Knight of Autumn (GRN) 183
+1 Duress (M20) 97
+2 Leyline of the Void (M20) 107
+1 Ray of Enfeeblement (AFR) 116
+2 Reckoner Bankbuster (NEO) 255
+2 Sheoldred, the Apocalypse (DMU) 107
+1 Unlicensed Hearse (SNC) 246

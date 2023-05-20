@@ -1,0 +1,38 @@
+Deck
+4 Fatal Push (KLR) 84
+3 Swamp (MIR) 340
+3 Blood Crypt (RNA) 245
+4 Thoughtseize (AKR) 127
+4 Bonecrusher Giant (ELD) 115
+2 Castle Locthwain (ELD) 241
+1 Kroxa, Titan of Death's Hunger (THB) 221
+1 Mountain (MIR) 346
+1 Den of the Bugbear (AFR) 254
+2 Hive of the Eye Tyrant (AFR) 258
+4 Sulfurous Springs (DMU) 256
+4 Haunted Ridge (MID) 263
+4 Bloodtithe Harvester (VOW) 232
+4 Fable of the Mirror-Breaker (NEO) 141
+4 Blackcleave Cliffs (ONE) 248
+1 Takenuma, Abandoned Mire (NEO) 278
+3 Sheoldred, the Apocalypse (DMU) 107
+1 Misery's Shadow (BRO) 107
+3 Go for the Throat (BRO) 102
+3 Graveyard Trespasser (MID) 104
+1 Reckoner Bankbuster (NEO) 255
+2 Sheoldred's Edict (ONE) 108
+1 Liliana of the Veil (DMU) 97
+
+Sideboard
+1 Unlicensed Hearse (SNC) 246
+1 Grafdigger's Cage (M20) 227
+3 Duress (M20) 97
+1 Go Blank (STX) 72
+1 Fry (M20) 140
+1 Unlicensed Hearse (SNC) 246
+1 Grafdigger's Cage (M20) 227
+1 Fry (M20) 140
+1 Parasitic Grasp (VOW) 123
+1 Go for the Throat (BRO) 102
+1 Kroxa, Titan of Death's Hunger (THB) 221
+2 Slaughter Games (RTR) 197

@@ -1,0 +1,38 @@
+Deck
+2 Raffine's Informant (SNC) 26
+4 Evangel of Synthesis (BRO) 209
+2 Skrelv, Defector Mite (ONE) 33
+4 Greasefang, Okiba Boss (NEO) 220
+3 Raffine, Scheming Seer (SNC) 213
+2 Ledger Shredder (SNC) 46
+1 Skysovereign, Consul Flagship (KLR) 272
+4 Parhelion II (WAR) 24
+4 Tainted Indulgence (SNC) 227
+1 Spell Pierce (XLN) 81
+4 Fatal Push (KLR) 84
+2 Vanishing Verse (STX) 244
+4 Thoughtseize (AKR) 127
+2 Liliana of the Veil (DMU) 97
+1 Takenuma, Abandoned Mire (NEO) 278
+4 Concealed Courtyard (KLR) 282
+3 Hallowed Fountain (RNA) 251
+2 Seachrome Coast (ONE) 258
+2 Raffine's Tower (SNC) 254
+3 Watery Grave (GRN) 259
+1 Otawara, Soaring City (NEO) 271
+1 Swamp (MIR) 340
+2 Darkslick Shores (ONE) 250
+2 Godless Shrine (RNA) 248
+
+Sideboard
+1 Fracture (STX) 188
+2 Sheoldred, the Apocalypse (DMU) 107
+2 Duress (M20) 97
+1 Mystical Dispute (ELD) 58
+1 Temporary Lockdown (DMU) 36
+2 Unlicensed Hearse (SNC) 246
+1 Path of Peril (VOW) 124
+1 Phyrexian Arena (ONE) 104
+1 Ray of Enfeeblement (AFR) 116
+2 Disdainful Stroke (GRN) 37
+1 Pithing Needle (MID) 257

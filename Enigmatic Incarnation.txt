@@ -1,0 +1,45 @@
+Companion
+1 Keruga, the Macrosage (IKO) 225
+
+Deck
+4 Bonecrusher Giant (ELD) 115
+4 Fable of the Mirror-Breaker (NEO) 141
+3 Omnath, Locus of Creation (ZNR) 232
+1 Elesh Norn, Mother of Machines (ONE) 10
+1 Kenrith, the Returned King (ELD) 303
+1 Tolsimir, Friend to Wolves (WAR) 224
+1 Agent of Treachery (M20) 43
+1 Atraxa, Grand Unifier (ONE) 196
+3 Temporary Lockdown (DMU) 36
+2 Touch the Spirit Realm (NEO) 40
+4 Enigmatic Incarnation (THB) 215
+4 Fires of Invention (ELD) 125
+4 Leyline Binding (DMU) 24
+1 Forest (MIR) 347
+1 Plains (MIR) 331
+1 Island (MIR) 336
+1 Swamp (MIR) 340
+1 Mountain (MIR) 346
+2 Hallowed Fountain (RNA) 251
+1 Steam Vents (GRN) 257
+2 Sacred Foundry (GRN) 254
+4 Fabled Passage (ELD) 244
+2 Indatha Triome (IKO) 248
+2 Ketria Triome (IKO) 250
+1 Raugrin Triome (IKO) 251
+2 Savai Triome (IKO) 253
+1 Zagoth Triome (IKO) 259
+1 Boseiju, Who Endures (NEO) 266
+1 Otawara, Soaring City (NEO) 271
+1 Raffine's Tower (SNC) 254
+1 Spara's Headquarters (SNC) 257
+1 Ziatora's Proving Ground (SNC) 261
+
+Sideboard
+1 Keruga, the Macrosage (IKO) 225
+3 Brazen Borrower (ELD) 39
+3 Mystical Dispute (ELD) 58
+1 Mystical Dispute (ELD) 58
+3 Leyline of the Void (M20) 107
+2 Supreme Verdict (RTR) 201
+2 Thought Distortion (M20) 117
